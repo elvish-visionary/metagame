@@ -1,0 +1,33 @@
+3 Swamp
+3 Plains
+2 Godless Shrine
+4 Shambling Vent
+4 Concealed Courtyard
+4 Marsh Flats
+4 Tectonic Edge
+1 Elspeth, Sun's Champion
+1 Ob Nixilis Reignited
+1 Gideon Jura
+1 Baneslayer Angel
+3 Damnation
+3 Liliana of the Veil
+2 Gideon of the Trials
+3 Lingering Souls
+1 Collective Brutality
+3 Wall of Omens
+4 Night's Whisper
+4 Fatal Push
+3 Relic of Progenitus
+3 Thoughtseize
+3 Inquisition of Kozilek
+Sideboard
+1 Rest in Peace
+1 Celestial Purge
+1 Fracturing Gust
+1 Timely Reinforcements
+1 Surgical Extraction
+3 Fulminator Mage
+2 Kor Firewalker
+2 Stony Silence
+2 Runed Halo
+1 Collective Brutality
