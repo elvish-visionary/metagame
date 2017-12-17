@@ -31,7 +31,7 @@ class Deck(object):
         self.cardnames = []
         with open(path, 'r') as f:
             for line in f:
-                if line == 'Sideboard\r\n':
+                if 'Sideboard' in line:
                     break
                 quant = line.split(' ', 1)[0]
                 name = line.split(' ', 1)[1].split('\r')[0]
